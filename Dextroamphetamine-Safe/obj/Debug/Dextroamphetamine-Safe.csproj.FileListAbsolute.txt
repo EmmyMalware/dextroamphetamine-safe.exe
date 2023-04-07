@@ -1,0 +1,9 @@
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\obj\Debug\Dextroamphetamine-Safe.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\obj\Debug\Dextroamphetamine_Safe.Form1.resources
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\obj\Debug\Dextroamphetamine_Safe.Properties.Resources.resources
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\obj\Debug\Dextroamphetamine-Safe.csproj.GenerateResource.cache
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\obj\Debug\Dextroamphetamine-Safe.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\bin\Debug\Dextroamphetamine-Safe.exe
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\bin\Debug\Dextroamphetamine-Safe.pdb
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\obj\Debug\Dextroamphetamine-Safe.exe
+C:\Users\April\source\repos\Dextroamphetamine-Safe\Dextroamphetamine-Safe\obj\Debug\Dextroamphetamine-Safe.pdb
